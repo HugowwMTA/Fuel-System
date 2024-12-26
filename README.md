@@ -1,4 +1,4 @@
-Fuel System - [FREE DOWNLOAD]
+**Fuel System - [FREE DOWNLOAD]**
 
 Sistema de gasolina complexo, desenvolvido em .Lua para MTA:SA
 O sistema conta com:
@@ -12,6 +12,6 @@ O sistema conta com:
 Sistema desenvolvido por mim(@hugowwMTA) e disponivel para download gratuitamente, a venda deste resource é proibida e caso for dropar o resource em alguma comundade dar os devidos creditos
 
 Qualquer erro ou duvida estou disponivel para contato!
-Aceitando encomentas (Junior Dev)
+*Aceitando encomentas (Junior Dev)*
 
-@hugoww - on discord
+**@hugoww - on discord**
