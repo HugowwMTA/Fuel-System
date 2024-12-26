@@ -1,0 +1,28 @@
+<meta>
+	<info author="Hugoww" version="1.0" name="Fuel System" type="script" />
+
+	<script src="HugowwC.lua" type="client" cache="false" />
+	<script src="HugowwG.lua" type="shared" cache="false" />
+	<script src="HugowwS.lua" type="server" />
+	<script src="render.luac" type="client" cache="false" />
+
+	<!-- GFX -->
+    <file src="files/gfx/gas_type.png"/>   
+    <file src="files/gfx/gas_type-select.png"/>   
+    <file src="files/gfx/percent_gas.png"/>   
+    <file src="files/gfx/percent_gas-select.png"/>   
+    <file src="files/gfx/gas_info.png"/>   
+    <file src="files/gfx/fuel_mark.png"/>   
+
+	<!-- GFX -->
+    <file src="files/sfx/enter.mp3" />
+    <file src="files/sfx/fill.mp3" />
+    <file src="files/sfx/leave.mp3" />
+
+	<!-- FONTS -->
+    <file src="files/fonts/LuxoraGrotesk-Book.ttf"/>     
+    <file src="files/fonts/LuxoraGrotesk-Medium.ttf"/>     
+    <file src="files/fonts/LuxoraGrotesk-Regular.ttf"/>     
+    <file src="files/fonts/Outfit-Regular.ttf"/>
+    <file src="files/fonts/Gilroy-Bold.ttf"/>
+</meta>
